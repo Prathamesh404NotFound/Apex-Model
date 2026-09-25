@@ -1,0 +1,6 @@
+{
+  "name": "Apex AI Workstation",
+  "description": "Unified multi-model AI workspace for online & local inference, model routing, hardware profiling, and adaptive preference learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
